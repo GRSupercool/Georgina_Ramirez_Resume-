@@ -1,11 +1,10 @@
 # Georgina Ramirez Resume 
-# Georgina Ramirez
 
-> ms.georgina.ramirez@gmail.com      |  www.linkedin.com/in/georginagramirez/   |  Seattle, WA 98102
+> georginauxramirez@gmail.com      |  www.linkedin.com/in/georginagramirez/   |  Seattle, WA 98102 | [Portfolio](georginauxramirez.com)
 
 # Microsoft LEAP Candidate 
  
-Seasoned, goal-focused professional with 10 years of leadership experience driving dramatic results for organizations focused on improving the lives of members of the most vulberable communitites in Seattle. Recognized for exceptional leadership aiding organizational innovation to thrive and continue to grow. Demonstrated ability to optimize resources to achieve core missions by forging solid relationships with key stakeholders and establishing a positive organizational culture. Dedicated to enhancing performance by analyzing existing processes and implementing effective systems, strategies, and policies. Persuasive communicator creating trust and driving teams of volunteers.
+*Seasoned, goal-focused professional with 10 years of leadership experience driving dramatic results for organizations focused on improving the lives of members of the most vulberable communitites in Seattle. Recognized for exceptional leadership aiding organizational innovation to thrive and continue to grow. Demonstrated ability to optimize resources to achieve core missions by forging solid relationships with key stakeholders and establishing a positive organizational culture. Dedicated to enhancing performance by analyzing existing processes and implementing effective systems, strategies, and policies. Persuasive communicator creating trust and driving teams of volunteers.*
 
 # Skills and Areas of Strength 
 | Web Development | User Experience | Leadership |
