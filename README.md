@@ -2,7 +2,6 @@
 
 > georginauxramirez@gmail.com      |  www.linkedin.com/in/georginagramirez/   |  Seattle, WA 98102 | [Portfolio](georginauxramirez.com)
 
-# Microsoft LEAP Candidate 
  
 *Seasoned, goal-focused professional with 10 years of leadership experience driving dramatic results for organizations focused on improving the lives of members of the most vulberable communitites in Seattle. Recognized for exceptional leadership aiding organizational innovation to thrive and continue to grow. Demonstrated ability to optimize resources to achieve core missions by forging solid relationships with key stakeholders and establishing a positive organizational culture. Dedicated to enhancing performance by analyzing existing processes and implementing effective systems, strategies, and policies. Persuasive communicator creating trust and driving teams of volunteers.Recent graduate of Seattle University Web Development program  expertly developing skills in front end development and user experience to develop tech based program that solve unique challenges or problems.*
 
