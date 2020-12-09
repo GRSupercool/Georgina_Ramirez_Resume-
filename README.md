@@ -11,7 +11,7 @@
 |HTML, CSS, Javascript, NPM  | User Accessibility, User Testing/ Science, Information Architecture| Program Development and Management, Strategic Partnerships, Fundraising|
 |Resposive Design, Vue, Git | Prototyping,Mockups,Wire Framing | Grant Adminsitration,Stakeholder Engagement, Strategic Planning | Organizational Management, Resource Optimization, Community Mobilization
 |Analytical Skills, Agile Workflow, Nano |Balsalmiq, Adobe XD, Affinity Diagramming| Leadership Development, Program Design, Program Evaluation |
-|CMS, Wordpress, Visual Code Studio, Github |Empathy, Storytelling,Surveys | Legislative Advocacy, Policy reform, Qaulitative and Qauatitative Data Collection |
+|CMS, Wordpress, Visual Code Studio, Github |Empathy, Storytelling,Surveys | Legislative Advocacy, Policy reform, Qaulitative and Qaunatitative Data Collection |
 
 
 # Career Experiences
